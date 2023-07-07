@@ -37,6 +37,6 @@ The Amazon Clone Project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or suggestions regarding the Amazon Clone Project, feel free to contact Shiva at beingshiva78gmail.com . and my linkedln Profile : https://www.linkedin.com/in/shiva2478/
+If you have any questions or suggestions regarding the Amazon Clone Project, feel free to contact Shiva at beingshiva78gmail.com. and my linkedln Profile : https://www.linkedin.com/in/shiva2478/
 
 Happy shopping with the Amazon Clone Application!
